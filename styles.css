@@ -185,15 +185,15 @@ a {
 }
 
 .member_card {
-  max-width: 300px;
-  max-height: 550px;
+  width: 240px;
+  height: 383px;
   transition: transform 400ms;
   text-align: center;
   border: none;
   color: #333;
   margin: 10px;
   border-radius: 2%;
-  background-image: url('Images/kindpng_2162479.png'); 
+  background-image: url('Images/Background_Img.png'); 
   background-size: contain;
   background-repeat: no-repeat;
   text-align: center;
@@ -208,8 +208,6 @@ a {
   background-color: #333;
 }
 .card-img-top {
-  /* width: 300px;
-  height: 400px; */
   border-radius: 2%;
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
@@ -217,7 +215,7 @@ a {
   max-height: 70%;
   display: block;
   position: relative;
-  left: 10%;
+  left: 15%;
 }
 
 .box {
